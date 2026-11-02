@@ -1,6 +1,8 @@
 # MyFerry for Android
 
-**Download:** https://myferry.myferry-mm.workers.dev/download (always the newest version), or the `MyFerry.apk` file under [Releases](../../releases/latest).
+**Download (always the newest version):** https://github.com/beebeebaby2020-dot/myferry-releases/releases/latest/download/MyFerry.apk
+
+or the `MyFerry.apk` file under [Releases](../../releases/latest).
 
 MyFerry shows staff and school ferries live: riders know when to walk out, parents know their child is on board, and managers see every car on one map. The driver's phone is the GPS.
 
